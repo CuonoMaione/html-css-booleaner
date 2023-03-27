@@ -11,3 +11,17 @@ header{
     padding-top: 6%;
     
 }
+
+.author{
+color: gray;
+
+}
+
+.date{
+    color: gray;
+    font-size: small;
+}
+
+.textphoto{
+    font-size: small;
+}
