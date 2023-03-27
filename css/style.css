@@ -34,3 +34,29 @@ th{
 .blue{
     background-color: aqua;
 }
+div{
+    color: gray;
+    font-weight: 600;
+}
+.imgfooter1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-size: contain;
+    background-repeat:no-repeat;
+    
+    
+}
+.imgfooter2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-size: contain;
+    background-repeat:no-repeat;
+    
+}
+span{
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    padding-left: 5%;
+}
+
